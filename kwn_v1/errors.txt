@@ -1,0 +1,42 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 754: expected menuitem
+    Fokus kerja sama?
+    ^
+
+File "game/script.rpy", line 809: expected menuitem
+    Pilih aktivitas
+    ^
+
+File "game/script.rpy", line 865: expected menuitem
+    Pilih tindakan final
+    ^
+
+File "game/script.rpy", line 975: expected menuitem
+    Persiapan apa yang diperlukan
+    ^
+
+File "game/script.rpy", line 1010: expected menuitem
+    Langkah selanjutnya
+    ^
+
+File "game/script.rpy", line 1037: expected menuitem
+    Fokus ketahanan
+    ^
+
+File "game/script.rpy", line 1064: expected menuitem
+    Bentuk kepemimpinan
+    ^
+
+File "game/script.rpy", line 1162: expected menuitem
+    Apa pembelajaran terpenting Anda
+    ^
+
+File "game/script.rpy", line 1185: expected menuitem
+    Apa rencana Anda ke depan
+    ^
+
+Ren'Py Version: Ren'Py 8.3.2.24090902
+Sat Oct 26 08:21:38 2024
